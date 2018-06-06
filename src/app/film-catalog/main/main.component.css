@@ -1,0 +1,13 @@
+.wrapper{
+    margin: 50px auto;
+    width: 900px;
+}
+.demo-tab-content{
+	text-align: justify;
+	text-indent:30px;
+	padding: 16px;
+}
+
+.demo-tab-group {
+  border: 1px solid #e8e8e8;
+}
